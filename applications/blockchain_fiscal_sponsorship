@@ -14,20 +14,20 @@
 >
 > All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
 
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
+- **Project Name:** Blockchain Fiscal Sponsorship
+- **Team Name:** Legal applicant: Department of Bioregion, Inc. (as fiscal sponsor)
+- **EOS Payment Address:** EOS payment address TBD
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **Pomelo Grant(s):** N/A
+- **Project is Open-Source:** Yes
+- **Project was part of Token sale:** No
 - **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
+
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
+- **Contact Name:** Charles F. ("Chuck") Harrison
+- **Contact Email:** cfharr@gmail.com
 - **Website:** https://yourwebsite.com
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
@@ -40,8 +40,9 @@
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
+- **Name:** Blockchain Fiscal Sponsorship for Distributed Nonprofit Organizations
+- **Brief Description:** This project builds tooling and implements a pilot project for fiscal sponsorship using national currencies (e.g. USD). It builds and demonstrates a means for unbanked DAOs to receive and spend funds within the mainstream banking system. The pilot project will be executed under US law; the tooling is not country-specific. Background: "Fiscal Sponsorship" is a well-established practice whereby small or loosely-organized projects performing charitable activities (e.g. education, arts, civics) can accept tax-exempt donations without the legal overhead of becoming recognized charities on their own. The sponsored project's activities are declared as a program of an "umbrella" or sponsor organization with legal tax-exempt status; the sponsor then accepts and holds contributions on behalf of the sponsored group and is accountable for proper disbursement of funds.
+This project applies the fiscal sponsorship model to distributed blockchain organizations, such as DAOs, who have no legal existence and are therefore unbanked. The tooling uses NFTs to provide a transparent, immutable accounting trail for each decision to disburse funds. A mutable NFT will track each expense invoice from creation thru approval and payment steps. A web interface will demonstrate a non-technical UX for accounting interactions.
 - **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
 - **Reason for Interest:** An indication of why your team is interested in creating this project.
 
